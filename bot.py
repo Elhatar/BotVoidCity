@@ -286,4 +286,4 @@ async def tab(ctx):
 )
 
 #Run bot
-bot.run('NzgxMTA5Njc1NDMyMDgzNDY3.G7i1qi.Vd3_FVLLBAKOqBMbnFNcvYYoKdytqmcAYr-Omk')
+bot.run('TOKEN')
